@@ -11,7 +11,7 @@ Build a Salesforce and Agentforce-based system to automatically analyze, priorit
 - Create tasks for High-priority tickets.
 - Allow managers to monitor ticket status and workload.
 - Provide role-based access, reports, and dashboards.
-- 
+  
 ## 2. Defining Project Scope & Objectives
 
 ### Project Scope
@@ -28,7 +28,7 @@ Build a Salesforce and Agentforce-based system to automatically analyze, priorit
 - Minimize manual ticket handling.
 - Ensure critical issues are handled first.
 - Improve team productivity and efficiency.
-- 
+ 
 ## 3. Gathering & Analyzing User Needs
 
 ### Users Involved
@@ -55,7 +55,7 @@ Build a Salesforce and Agentforce-based system to automatically analyze, priorit
 - Agentforce – AI-based ticket analysis.
 - Apex – Optional advanced processing.
 - Reports & Dashboards – Performance monitoring.
-- 
+  
 - ## 4. Salesforce Features & Tools Required
 
 - Custom Object – Store and manage support ticket data.

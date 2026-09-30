@@ -67,3 +67,20 @@ Build a Salesforce and Agentforce-based system to automatically analyze, priorit
 - Agent Topic & Actions – Handle support ticket priority analysis.
 - Reports & Dashboards – Monitor tickets and team performance.
 - Security & Access – Control access for agents and managers.
+
+## 5. Designing Data Model and Security Model
+
+### Data Model
+- Custom Object – Support Ticket Intelligence.
+- Ticket Fields – Ticket Number, Description, Issue Type, Priority, Status, Resolution Time.
+- Account Lookup – Links the ticket to the customer account.
+- Contact Lookup – Stores customer contact information.
+- Assigned To – Stores the support agent handling the ticket.
+- SLA Breach Risk – Identifies delayed or risky tickets.
+
+### Security Model
+- Support Agents – Create and view assigned tickets.
+- Managers – View and manage team tickets.
+- Sharing Rules – Control ticket visibility.
+- Field-Level Security – Protect important fields such as Priority and SLA Breach Risk.
+- Role Hierarchy – Allows managers to view team tickets.

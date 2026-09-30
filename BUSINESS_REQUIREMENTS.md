@@ -55,8 +55,8 @@ Build a Salesforce and Agentforce-based system to automatically analyze, priorit
 - Agentforce – AI-based ticket analysis.
 - Apex – Optional advanced processing.
 - Reports & Dashboards – Performance monitoring.
-  
-- ## 4. Salesforce Features & Tools Required
+
+ ## 4. Salesforce Features & Tools Required
 
 - Custom Object – Store and manage support ticket data.
 - Custom Fields & Relationships – Store priority, status, SLA risk, and customer details.
